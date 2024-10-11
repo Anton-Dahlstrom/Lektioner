@@ -7,6 +7,7 @@ public class Program
         Console.WriteLine("Hej! Här tagait bort din kod :)");
         Console.WriteLine("Hi!");
         Console.WriteLine("Fixing issue");
+        // More edits
     }
 }
 
