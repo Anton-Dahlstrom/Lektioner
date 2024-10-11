@@ -8,6 +8,7 @@ public class Program
         Console.WriteLine("Hi!");
         Console.WriteLine("Fixing issue");
         // More edits
+        // Second comment.
     }
 }
 
